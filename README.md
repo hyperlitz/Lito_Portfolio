@@ -40,11 +40,14 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-## Github repository link:
+- Mark Carlson (Instructor)
+- Clarence C (TA)
+- Jili Jian (TA)
+- Mariah W. (TA)
 
+## Github repository link:
 
 - https://github.com/hyperlitz/Lito_Portfolio
 
-
-
-
+## Netlify Live Link
+- https://654706dac496e57ecc209a0f--litoportfolio.netlify.app/
